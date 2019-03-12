@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-nativeintunesdkwrapper",
+  "version": "0.1.0",
+  "description": "Plugin to invoke native intune SDK from javascript file",
+  "cordova": {
+    "id": "cordova-plugin-nativeintunesdkwrapper",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Rajesh L V",
+  "license": "ISC"
+}
